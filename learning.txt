@@ -1,0 +1,4 @@
+My GitHub Learning Notes
+
+- I learned how to fork repositories.
+- I practiced editing files and making pull requests.
