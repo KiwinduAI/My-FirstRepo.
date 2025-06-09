@@ -1,2 +1,6 @@
-# My-FirstRepo.
-This is my first repository created as part of a GitHub learning task
+# Learn GitHub Collaboration
+
+This is a practice repository for learning GitHub collaboration.
+
+## [Names of contributors]
+- Ally Kiwindu
